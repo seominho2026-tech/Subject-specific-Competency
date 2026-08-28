@@ -1,0 +1,8 @@
+{
+  "name": "교과 세특 포트폴리오(EduPortfolio)",
+  "description": "학교생활기록부(세특) 작성을 위한 교사-학생 협업 포트폴리오 및 AI 세특 초안 생성 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
